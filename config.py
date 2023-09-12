@@ -1,5 +1,5 @@
 customhost = "assignment.cpc3sv6dkw4o.us-east-1.rds.amazonaws.com"
-customuser = "aws_user"
+customuser = "user_aws"
 custompass = "Bait3273"
 customdb = "assignment"
 custombucket = "sy-employee"
